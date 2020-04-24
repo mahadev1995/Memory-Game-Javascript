@@ -1,0 +1,44 @@
+body{
+    background-color: blueviolet;
+}
+
+h2{
+    color: white;
+}
+
+.container-1{
+    border: 3px solid greenyellow;
+    width: 75%;
+    margin: 100px auto;
+    align-items: center;
+    text-align: center;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    width: 400px;
+    height: 450px;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border: 2px solid black;
+}
+
+.flex-box-container-1{
+    display: flex;
+    border: 2px solid yellow;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+
+
